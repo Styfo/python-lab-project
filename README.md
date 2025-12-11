@@ -60,13 +60,13 @@ The application will be available at `http://localhost:8501`
 The application comes with the following pre-configured users:
 
 - **User 1**
-  - Username: `alice`
-  - Password: `password123`
+  - Username: `yousif`
+  - Password: ` yousif`
   - Initial Balance: $1000
 
 - **User 2**
-  - Username: `bob`
-  - Password: `password123`
+  - Username: `mustafa`
+  - Password: `mustafa`
   - Initial Balance: $1000
 
 ## Security Features
@@ -89,5 +89,6 @@ The application uses SQLite with the following tables:
 Feel free to submit issues and enhancement requests.
 
 ## License
+
 
 This project is licensed under the MIT License. 
